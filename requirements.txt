@@ -6,4 +6,4 @@ plotly
 streamlit
 scikit-learn
 jupyter
-pickle
+
